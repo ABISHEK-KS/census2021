@@ -1,5 +1,6 @@
 # census2021
 
+Please visit the PowerBi dashboard at https://www.novypro.com/project/data-7    
 Report is in the form of a ppt  
 Please download  report.ppt to go through the report  
 
